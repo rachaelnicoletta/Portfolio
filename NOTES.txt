@@ -1,1 +1,0 @@
-Minimalistic CSS GRID boiler template from Superbro: https://superbro.dev/.
