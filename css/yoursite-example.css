@@ -1,0 +1,81 @@
+/*	&& START
+		Write your code here
+	=======================*/	
+	header, footer, main {
+        display:block;
+        margin: 4rem auto;
+        max-width: var(--site-size);
+        position: relative;
+    }
+
+    nav {
+        display:block;
+        margin: 0 auto;
+        max-width: var(--site-size);
+        position: relative;
+    }
+    
+    section {
+        margin-top: 3rem;
+    }
+
+    p {
+		line-height: 1em;
+	}
+
+	.item {
+		text-transform: none;
+	}
+
+    .name {
+        font-family: 'Comfortaa', cursive;
+    }
+
+    .introduction {
+        font-size: 1.75em;
+        line-height: 1.25em;
+        margin: 1em auto;
+    }
+
+    .section-info {
+        font-size: 1.5em;
+        line-height: 1.00em;
+        margin: 1em auto;
+    }
+	
+    .note {
+        font-style: italic;
+        font-size: 75%;
+        color: #0F720F;
+    }
+
+    .profile-image {
+        width: 75%;
+        border-radius: 50%;
+        border: #0F720F solid .25em;
+    }
+
+    /* Lists */
+    .unordered-list{
+        display: block;
+        list-style-type: disc;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 40px;
+    }
+    .unordered-list ul{
+        display: block;
+        list-style-type: circle;
+        margin-bottom: 1em;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 40px;
+    }
+
+    /* Margin types */
+
+    .section-aside {
+        margin-left: 4em;
+    }
