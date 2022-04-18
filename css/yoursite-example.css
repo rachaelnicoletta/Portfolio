@@ -31,6 +31,11 @@
         font-family: 'Comfortaa', cursive;
     }
 
+    .name-labels {
+        font-size: larger;
+	color: #0F720F;
+    }
+
     .introduction {
         font-size: 1.75em;
         line-height: 1.25em;
