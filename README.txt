@@ -1,1 +1,1 @@
-Hello, thanks for checking out my portfolio. I kicked this website off with the help Superbro's minimalistic CSS GRID boilerplate template (https://superbro.dev/) and stemmed from there. I will be updating my portfolio as I complete new projects.
+Hello, thanks for checking out my portfolio. I kicked this website off with the help of Superbro's minimalistic CSS GRID boilerplate template (https://superbro.dev/) and branching from there. I will be updating my portfolio as I complete new projects.
