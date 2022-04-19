@@ -247,8 +247,7 @@ td:last-child {
 	=======================*/
     .sb-menu{
         display:grid;
-        grid-template-columns: repeat(3, minmax(1em, auto));
-        width: 75%;
+        grid-template-columns: repeat(3, minmax(5em, auto));
         height: 3.5em;
         text-align: right;
         height:100%;
