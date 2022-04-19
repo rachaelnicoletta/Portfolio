@@ -15,7 +15,7 @@
         --columns: 12; /* default value is 12, leave it empty if you want to keep 12 columns setting */
 
         /* background color */           
-        --background-main: #cfd3cf;
+        --background-main: #e5e5e5;
 
         /*	=========== FONT(s) ==========  */
         --font-main:'Roboto', sans-serif;
