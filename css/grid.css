@@ -20,7 +20,7 @@
     {  grid-column: span 12 ; grid-row: span 1; width: 100%; }
 
 /* Tablet / other screens */
-@media (max-width: 420px) {
+@media (max-width: 960px) {
     .span1, .span2, .span3,
     .span4, .span5, .span6, 
     .span7, .span8, .span9, 
@@ -37,7 +37,7 @@
     
     header, footer, main {
         display: block;
-        margin: 2em auto;
+        margin: 1em auto;
         max-width: var(--site-size);
         position: relative;
     }
@@ -74,7 +74,7 @@
         
     }
 }
-    
+
 /* Desktop or larger */
 @media (min-width: 960px) {
     .span0 {  grid-column: span 0 ; grid-row: span 1; width: 100%; }

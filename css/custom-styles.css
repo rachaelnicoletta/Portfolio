@@ -1,9 +1,8 @@
-/*	&& START
-		Write your code here
-	=======================*/	
-	header, footer, main {
+    /* Additional Styles */
+
+    header, footer, main {
         display:block;
-        margin: 4rem auto;
+        margin: 2rem auto;
         max-width: var(--site-size);
         position: relative;
     }
@@ -20,7 +19,7 @@
     }
 
     p {
-		line-height: 1em;
+		line-height: 1.5em;
 	}
 
 	.item {
@@ -44,7 +43,7 @@
 
     .section-info {
         font-size: 1.5em;
-        line-height: 1.00em;
+        line-height: 1.5em;
         margin: 1em auto;
     }
 	
